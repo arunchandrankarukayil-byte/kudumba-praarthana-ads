@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "version": 2,
   "image": "02.webp",
   "link": "https://example.com",
-  "start_date": "2026-10-07",
-  "end_date": "2026-10-07"
+  "start_date": "2026-10-09",
+  "end_date": "2026-10-09"
 }
